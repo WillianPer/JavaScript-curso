@@ -13,8 +13,8 @@ console.log(aula1, aula2)
     obj.__proto__ = f.prototype
     f.apply(obj, params)
     return obj
-}*/
+}
 
 const aula3 = novo("Bem vindo", 123)
 const aula4 = novo("Até mais", 456)
-console.log(aula3, aula4)
+console.log(aula3, aula4)*/
